@@ -137,7 +137,7 @@ dependencies {
 
     implementation 'com.squareup.retrofit2:retrofit:2.8.1'// compulsory
 
-    implementation 'com.squareup.retrofit2:converter-gson:2.8.1' //for retrofit conversion
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0' //for retrofit conversion
 
     implementation 'com.squareup.okhttp3:logging-interceptor:3.9.0'
     implementation 'fr.avianey.com.viewpagerindicator:library:2.4.1.1@aar'
